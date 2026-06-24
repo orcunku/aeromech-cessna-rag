@@ -1,3 +1,6 @@
+## 🔗 Live demo
+Try it: https://aeromech-cessna-rag-eapqkp7lfbvjiq3ysxab3c.streamlit.app
+
 # aeromech-cessna-rag
 Agentic RAG assistant for Cessna 172 ground-based maintenance &amp; training
 
