@@ -1,0 +1,8 @@
+streamlit
+numpy
+sentence-transformers
+rank-bm25
+pypdf
+langchain-text-splitters
+langchain-google-genai
+langgraph
